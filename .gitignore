@@ -1,0 +1,8 @@
+node_modules/
+.codex-build/
+.codex-finalizer/
+tmp/
+output/presentation/_renders/
+output/pdf/_renders/
+*.log
+

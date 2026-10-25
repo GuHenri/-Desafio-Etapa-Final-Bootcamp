@@ -1,0 +1,16 @@
+{
+  "name": "portfoliohub-guhenri",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "PortfolioHUB - portfólio digital integrado ao GitHub",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "test": "node tests/validate-site.mjs",
+    "check": "npm run build && npm test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
+
