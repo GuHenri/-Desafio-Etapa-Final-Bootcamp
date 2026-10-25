@@ -53,3 +53,9 @@ O responsável deve acompanhar GitHub Actions, alertas do CodeQL e disponibilida
 - GitHub Pages habilitado para GitHub Actions.
 - URL publicada registrada no relatório final.
 
+## 10. Endereço de produção
+
+O GitHub Pages publicou a versão pública em:
+
+https://guhenri.github.io/-Desafio-Etapa-Final-Bootcamp/
+

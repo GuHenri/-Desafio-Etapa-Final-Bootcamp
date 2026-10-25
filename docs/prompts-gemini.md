@@ -20,3 +20,10 @@ Cole depois o conteúdo de `docs/implantacao.md`.
 
 Para cada interação, anote data, objetivo, trecho aproveitado, decisão humana e captura de tela. Inclua apenas evidências autênticas no PDF final.
 
+## Registro realizado em 25/10/2026
+
+- **Objetivo:** distinguir controles essenciais de itens opcionais para um portfólio acadêmico estático.
+- **Recomendação do Gemini:** priorizar o fallback da API do GitHub, responsividade, acessibilidade básica e ausência de tokens no frontend.
+- **Decisão humana:** manter essas quatro prioridades e conservar também CodeQL, CSP e permissões mínimas, pois os controles adicionais já estavam implementados e não adicionam manutenção operacional relevante.
+- **Evidência:** `assets/evidencia-gemini.png`.
+
